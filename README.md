@@ -1,4 +1,4 @@
-# software-outputs
+# SABS-R3 Student Software
 
 A collection of software written and contributed to by SABS-R3 students.
 
