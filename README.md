@@ -12,7 +12,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 - [Libraries](#libraries)
 - [Applications](#applications)
 - [Demos / Tutorials](#demostutorials)
-- [Journal Paper SI](#journalpapersi)
+- [Publications](#publications)
 - [Other](#other)
 
 <!-- tocstop -->
@@ -39,6 +39,6 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 
 ## Demos / Tutorials
 
-## Journal Paper SI
+## Publications
 
 ## Other
