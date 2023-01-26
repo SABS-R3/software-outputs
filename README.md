@@ -28,12 +28,10 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 [![Functional testing results](https://raw.githubusercontent.com/pints-team/functional-testing/master/badge-results.svg)](https://www.cs.ox.ac.uk/projects/PINTS/functional-testing)
 [![binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/pints-team/pints/master?filepath=examples)
 [![readthedocs](https://readthedocs.org/projects/pints/badge/?version=latest)](http://pints.readthedocs.io/en/latest/?badge=latest)
-  - PINTS is described in this publication in [JORS](http://doi.org/10.5334/jors.252). More information about PINTS papers can be found in the [papers](https://github.com/pints-team/pints/tree/master/papers) directory.
-  - SABS-R3 contributors:  [<img src="https://github.com/martinjrobins.png"/>](https://github.com/martinjrobins)
-
-[<img src="https://github.com/martinjrobins.png"/>](https://github.com/martinjrobins)
-
-[![](https://github.com/martinjrobins.png)](https://github.com/martinjrobins)
+![](https://img.shields.io/badge/lang-python-blue)
+[![](https://img.shields.io/badge/paper-10.5334/jors.252-blueviolet)](http://doi.org/10.5334/jors.252)
+[![](https://img.shields.io/badge/citing-blueviolet)](https://github.com/pints-team/pints/tree/master/papers)
+[<img src="https://github.com/martinjrobins.png" width="48"/>](https://github.com/martinjrobins)
 
 ## Applications
 
