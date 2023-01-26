@@ -10,10 +10,10 @@ The general structure of each project entry can follow the structure below, but 
 
 ```
 * <Project Name with link> - <1-2 sentence description of the project>
-  - <Status badges: e.g. CI, documentation status etc>
   - <Publication badges: links to papers describing or using the software>
   - <Metadata badges: describes things like programming language, scientific field or topic>
   - <Student contributors: images linking to webpages or github profiles of the students involved>
+  - <Any other status badges: e.g. CI, documentation status etc>
 ```
 
 Feel free to use https://shields.io/ to generate any badges you need.
