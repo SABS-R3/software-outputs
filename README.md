@@ -31,6 +31,8 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
   - PINTS is described in this publication in [JORS](http://doi.org/10.5334/jors.252). More information about PINTS papers can be found in the [papers](https://github.com/pints-team/pints/tree/master/papers) directory.
   - SABS-R3 contributors:  [<img href="https://github.com/martinjrobins.png"/>](https://github.com/martinjrobins)
 
+[<img href="https://github.com/martinjrobins.png"/>](https://github.com/martinjrobins)
+
 ## Applications
 
 ## Demos / Tutorials
