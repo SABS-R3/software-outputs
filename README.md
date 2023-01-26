@@ -33,6 +33,8 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 
 [<img href="https://github.com/martinjrobins.png"/>](https://github.com/martinjrobins)
 
+[![](https://github.com/martinjrobins.png)](https://github.com/martinjrobins)
+
 ## Applications
 
 ## Demos / Tutorials
