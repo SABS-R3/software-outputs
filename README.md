@@ -29,9 +29,9 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 [![binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/pints-team/pints/master?filepath=examples)
 [![readthedocs](https://readthedocs.org/projects/pints/badge/?version=latest)](http://pints.readthedocs.io/en/latest/?badge=latest)
   - PINTS is described in this publication in [JORS](http://doi.org/10.5334/jors.252). More information about PINTS papers can be found in the [papers](https://github.com/pints-team/pints/tree/master/papers) directory.
-  - SABS-R3 contributors:  [<img href="https://github.com/martinjrobins.png"/>](https://github.com/martinjrobins)
+  - SABS-R3 contributors:  [<img src="https://github.com/martinjrobins.png"/>](https://github.com/martinjrobins)
 
-[<img href="https://github.com/martinjrobins.png"/>](https://github.com/martinjrobins)
+[<img src="https://github.com/martinjrobins.png"/>](https://github.com/martinjrobins)
 
 [![](https://github.com/martinjrobins.png)](https://github.com/martinjrobins)
 
