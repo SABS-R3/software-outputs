@@ -41,6 +41,18 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
   - [![](https://img.shields.io/badge/Paper-bioRxiv/filter%20inference-blueviolet)](https://doi.org/10.1101/2022.11.01.514702) [![](https://img.shields.io/badge/Paper-bioRxiv/treatment%20response%20prediction-blueviolet)](https://doi.org/10.1101/2022.03.19.483454)
   - [<img src="https://github.com/DavAug.png" alt="David Augustin" title="David Augustin" width="48"/>](https://github.com/DavAug)
   - [![Unit tests on multiple python versions](https://github.com/DavAug/chi/workflows/Unit%20tests%20(python%20versions)/badge.svg)](https://github.com/DavAug/chi/actions) [![Unit tests on multiple operating systems](https://github.com/DavAug/chi/workflows/Unit%20tests%20(OS%20versions)/badge.svg)](https://github.com/DavAug/chi/actions) [![codecov](https://codecov.io/gh/DavAug/chi/branch/main/graph/badge.svg)](https://codecov.io/gh/DavAug/chi) [![Documentation Status](https://readthedocs.org/projects/chi/badge/?version=latest)](https://chi.readthedocs.io/en/latest/?badge=latest)
+  
+* [ImmuneBuilder](https://github.com/brennanaba/ImmuneBuilder) — A set of deep learning models to predict the structure of antibodies, nanobodies and TCRs. 
+  - ![](https://img.shields.io/badge/Language-Python-blue) ![](https://img.shields.io/badge/Topic-Structure%20Prediction-blue) 
+  - [![](https://img.shields.io/badge/Paper-bioRxiv/ImmuneBuilder-blueviolet)](https://www.biorxiv.org/content/10.1101/2022.11.04.514231v2)
+  - [<img src="https://github.com/brennanaba.png" alt="Brennan Abanades" title="Brennan Abanades" width="48"/>](https://github.com/brennanaba)
+  - [![PyPI - Downloads](https://img.shields.io/pypi/dm/immunebuilder?color=gree)](https://pypistats.org/packages/immunebuilder)
+  
+* [ABlooper](https://github.com/brennanaba/ABlooper) — Tool for modelling the CDR loops in antibodies. 
+  - ![](https://img.shields.io/badge/Language-Python-blue) ![](https://img.shields.io/badge/Topic-Structure%20Prediction-blue) 
+  - [![](https://img.shields.io/badge/Paper-Bioinformatics/ABlooper-blueviolet)](https://academic.oup.com/bioinformatics/article/38/7/1877/6517780)
+  - [<img src="https://github.com/brennanaba.png" alt="Brennan Abanades" title="Brennan Abanades" width="48"/>](https://github.com/brennanaba)
+  - [![PyPI - Downloads](https://img.shields.io/pypi/dm/ablooper?color=gree)](https://pypistats.org/packages/ablooper)
 
 ## Applications
 
