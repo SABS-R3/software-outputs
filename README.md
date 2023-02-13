@@ -68,7 +68,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
   [![Documentation Status](https://readthedocs.org/projects/branchpro/badge/?version=latest)](https://branchpro.readthedocs.io/en/latest/?badge=latest)
   [![codecov](https://codecov.io/gh/SABS-R3-Epidemiology/branchpro/branch/main/graph/badge.svg?token=UBJG0AICF9)](https://codecov.io/gh/SABS-R3-Epidemiology/branchpro/)
 
-* [seirmo](https://github.com/brennanaba/ABlooper) — Tool for modelling the outbreak of an infectious disease with the SEIR model.
+* [seirmo](https://github.com/SABS-R3-Epidemiology/seirmo) — Tool for modelling the outbreak of an infectious disease with the SEIR model.
   - ![](https://img.shields.io/badge/Language-Python-blue) ![](https://img.shields.io/badge/Topic-Epidemiological%20Modelling-blue) 
   - [<img src="https://github.com/FarmHJ.png" alt="Hui Jia Farm" title="Hui Jia Farm" width="48"/>](https://github.com/FarmHJ)
     [<img src="https://github.com/siting-miao.png" alt="Siting Miao" title="Siting Miao" width="48"/>](https://github.com/siting-miao)
