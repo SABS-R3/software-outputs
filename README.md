@@ -68,7 +68,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
   [![Documentation Status](https://readthedocs.org/projects/branchpro/badge/?version=latest)](https://branchpro.readthedocs.io/en/latest/?badge=latest)
   [![codecov](https://codecov.io/gh/SABS-R3-Epidemiology/branchpro/branch/main/graph/badge.svg?token=UBJG0AICF9)](https://codecov.io/gh/SABS-R3-Epidemiology/branchpro/)
 
-* [seirmo](https://github.com/brennanaba/ABlooper) — Tool for modelling the outbreak of an infectious disease with the SEIR model.
+* [seirmo](https://github.com/SABS-R3-Epidemiology/seirmo) — Tool for modelling the outbreak of an infectious disease with the SEIR model.
   - ![](https://img.shields.io/badge/Language-Python-blue) ![](https://img.shields.io/badge/Topic-Epidemiological%20Modelling-blue) 
   - [<img src="https://github.com/FarmHJ.png" alt="Hui Jia Farm" title="Hui Jia Farm" width="48"/>](https://github.com/FarmHJ)
     [<img src="https://github.com/siting-miao.png" alt="Siting Miao" title="Siting Miao" width="48"/>](https://github.com/siting-miao)
@@ -84,6 +84,17 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
   ![Unit tests (OS versions)](https://github.com/SABS-R3-Epidemiology/seirmo/workflows/Unit%20tests%20(OS%20versions)/badge.svg)
   [![codecov](https://codecov.io/gh/SABS-R3-Epidemiology/seirmo/branch/main/graph/badge.svg?token=D1P3CMQTDP)](https://codecov.io/gh/SABS-R3-Epidemiology/seirmo)
   [![Documentation Status](https://readthedocs.org/projects/seirmo/badge/?version=latest)](https://seirmo.readthedocs.io/en/latest/?badge=latest)
+  
+* [epimodels](https://github.com/I-Bouros/multi-epi-model-cross-analysis) — A collection of multiple epidemiological models used in the modelling of cases observed during the COVID-19 pandemic.
+  - ![](https://img.shields.io/badge/Language-Python-blue) ![](https://img.shields.io/badge/Topic-Epidemiological%20Modelling-blue) ![](https://img.shields.io/badge/Topic-Bayesian%20Inference-blue)
+  - [<img src="https://github.com/I-Bouros.png" alt="Ioana Bouros" title="Ioana Bouros" width="48"/>](https://github.com/I-Bouros)
+  - [![Multiple python versions](https://github.com/I-Bouros/multi-epi-model-cross-analysis/actions/workflows/python-version-unittests.yml/badge.svg)](https://github.com/I-Bouros/multi-epi-model-cross-analysis/actions/workflows/python-version-unittests.yml)
+  [![Multiple OS](https://github.com/I-Bouros/multi-epi-model-cross-analysis/actions/workflows/os-unittests.yml/badge.svg)](https://github.com/I-Bouros/multi-epi-model-cross-analysis/actions/workflows/os-unittests.yml)
+  [![Copyright License](https://github.com/I-Bouros/multi-epi-model-cross-analysis/actions/workflows/check-copyright.yml/badge.svg)](https://github.com/I-Bouros/multi-epi-model-cross-analysis/actions/workflows/check-copyright.yml)
+  [![Documentation Status](https://readthedocs.org/projects/multi-epi-model-cross-analysis/badge/?version=latest)](https://multi-epi-model-cross-analysis.readthedocs.io/en/latest/?badge=latest)
+  [![codecov](https://codecov.io/gh/I-Bouros/multi-epi-model-cross-analysis/branch/main/graph/badge.svg?token=SNHCUJIS3B)](https://codecov.io/gh/I-Bouros/multi-epi-model-cross-analysis)
+  [![Style (flake8)](https://github.com/I-Bouros/multi-epi-model-cross-analysis/actions/workflows/flake8-style-test.yml/badge.svg)](https://github.com/I-Bouros/multi-epi-model-cross-analysis/actions/workflows/flake8-style-test.yml)
+
 
 ## Applications
 
