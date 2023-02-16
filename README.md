@@ -116,6 +116,11 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
   [![codecov](https://codecov.io/gh/I-Bouros/multi-epi-model-cross-analysis/branch/main/graph/badge.svg?token=SNHCUJIS3B)](https://codecov.io/gh/I-Bouros/multi-epi-model-cross-analysis)
   [![Style (flake8)](https://github.com/I-Bouros/multi-epi-model-cross-analysis/actions/workflows/flake8-style-test.yml/badge.svg)](https://github.com/I-Bouros/multi-epi-model-cross-analysis/actions/workflows/flake8-style-test.yml)
 
+* [Paragraph](https://github.com/oxpig/Paragraph) — Antibody paratope prediction using graph neural networks with minimal feature vectors. 
+  - ![](https://img.shields.io/badge/Language-Python-blue) ![](https://img.shields.io/badge/Topic-Paratope%20Prediction-blue) 
+  - [![](https://img.shields.io/badge/Paper-Bioinformatics/Paragraph-blueviolet)](https://doi.org/10.1093/bioinformatics/btac732)
+  - [<img src="https://github.com/lewis-chinery.png" alt="Lewis Chinery" title="Lewis Chinery" width="48"/>](https://lewis-chinery.github.io/)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/oxpig/Paragraph?style=social)
 
 ## Applications
 
