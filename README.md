@@ -122,6 +122,12 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
   - [<img src="https://github.com/lewis-chinery.png" alt="Lewis Chinery" title="Lewis Chinery" width="48"/>](https://lewis-chinery.github.io/)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/oxpig/Paragraph?style=social)
 
+* [fragment-ranking](https://github.com/oxpig/fragment-ranking) — A method for ranking fragments by how much novel information they give about protein targets in fragment screens. When using the results of fragment screens on many diverse targets, this method has been shown to select a set of functionally diverse fragments that can get information more efficiently from new targets.
+  - ![](https://img.shields.io/badge/Language-Python-blue) ![](https://img.shields.io/badge/Topic-FBDD-blue) 
+  - [![](https://img.shields.io/badge/Paper-JMedChem/fragment--ranking-blueviolet)](https://doi.org/10.1021/acs.jmedchem.2c01004)
+  - [<img src="https://github.com/annacarbery.png" alt="Anna Carbery" title="Anna Carbery" width="48"/>](https://github.com/annacarbery)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/oxpig/fragment-ranking?style=social)
+
 ## Applications
 
 ## Demos / Tutorials
