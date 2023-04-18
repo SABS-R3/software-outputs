@@ -129,8 +129,8 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
   - ![GitHub Repo stars](https://img.shields.io/github/stars/oxpig/ablang?style=social)
   
 * [KA-Search](https://github.com/oxpig/kasearch.git) — KA-Search: Rapid and exhaustive sequence identity search of known antibodies. 
-  - ![](https://img.shields.io/badge/Language-Python-blue) ![](https://img.shields.io/badge/Topic-Antibody%20Search-blue)
-  - [![](https://img.shields.io/badge/Paper-bioRxiv/KA\-Search-blueviolet)](https://doi.org/10.1101/2022.11.01.513855)
+  - ![](https://img.shields.io/badge/Language-Python-blue) ![](https://img.shields.io/badge/Topic-Antibody%20Sequence%20Search-blue)
+  - [![](https://img.shields.io/badge/Paper-bioRxiv/KASearch-blueviolet)](https://doi.org/10.1101/2022.11.01.513855)
   - [<img src="https://github.com/tobiasheol.png" alt="Tobias Hegelund Olsen" title="Tobias Hegelund Olsen" width="48"/>](https://tobiasheol.github.io/personal_website/)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/oxpig/kasearch?style=social)
   
