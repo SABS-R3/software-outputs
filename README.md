@@ -132,6 +132,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
   - ![](https://img.shields.io/badge/Language-Python-blue) ![](https://img.shields.io/badge/Topic-Antibody%20Sequence%20Search-blue)
   - [![](https://img.shields.io/badge/Paper-bioRxiv/KASearch-blueviolet)](https://doi.org/10.1101/2022.11.01.513855)
   - [<img src="https://github.com/tobiasheol.png" alt="Tobias Hegelund Olsen" title="Tobias Hegelund Olsen" width="48"/>](https://tobiasheol.github.io/personal_website/)
+    [<img src="https://github.com/brennanaba.png" alt="Brennan Abanades" title="Brennan Abanades" width="48"/>](https://github.com/brennanaba)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/oxpig/kasearch?style=social)
   
 
