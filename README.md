@@ -121,6 +121,19 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
   - [![](https://img.shields.io/badge/Paper-Bioinformatics/Paragraph-blueviolet)](https://doi.org/10.1093/bioinformatics/btac732)
   - [<img src="https://github.com/lewis-chinery.png" alt="Lewis Chinery" title="Lewis Chinery" width="48"/>](https://lewis-chinery.github.io/)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/oxpig/Paragraph?style=social)
+  
+* [AbLang](https://github.com/oxpig/AbLang.git) — AbLang: A language model for antibodies. 
+  - ![](https://img.shields.io/badge/Language-Python-blue) ![](https://img.shields.io/badge/Topic-Antibody%20Design-blue) ![](https://img.shields.io/badge/Topic-Language%20Models-blue) 
+  - [![](https://img.shields.io/badge/Paper-Bioinformatics%20Advances/AbLang-blueviolet)](https://doi.org/10.1093/bioadv/vbac046)
+  - [<img src="https://github.com/tobiasheol.png" alt="Tobias Hegelund Olsen" title="Tobias Hegelund Olsen" width="48"/>](https://tobiasheol.github.io/personal_website/)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/oxpig/ablang?style=social)
+  
+* [KA-Search](https://github.com/oxpig/kasearch.git) — KA-Search: Rapid and exhaustive sequence identity search of known antibodies. 
+  - ![](https://img.shields.io/badge/Language-Python-blue) ![](https://img.shields.io/badge/Topic-Antibody%20Search-blue)
+  - [![](https://img.shields.io/badge/Paper-bioRxiv/KA\-Search-blueviolet)](https://doi.org/10.1101/2022.11.01.513855)
+  - [<img src="https://github.com/tobiasheol.png" alt="Tobias Hegelund Olsen" title="Tobias Hegelund Olsen" width="48"/>](https://tobiasheol.github.io/personal_website/)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/oxpig/kasearch?style=social)
+  
 
 ## Applications
 
