@@ -19,6 +19,29 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 
 ## SABS-R3 Software Projects
 
+**The Drug Discovery Game** - An interactive web-application designed for medicinal chemists to learn about the drug discovery and design process. The aim of the game is to design a compound which inhibits the protein MMP-12 by running various tests and assays. 
+* [App](https://github.com/SABS-Group-2-2021-22/drug-discovery-game-backend)
+  - ![](https://img.shields.io/badge/Language-Javascript-blue) ![](https://img.shields.io/badge/Topic-Drug%20Design-blue)
+  - [<img src="https://github.com/npqst.png" alt="Nele Quast" title="Nele Quast" width="48"/>](https://github.com/npqst)
+    [<img src="https://github.com/k-shep.png" alt="Katherine Sheperd" title="Katherine Sheperd" width="48"/>](https://github.com/k-shep)
+    [<img src="https://github.com/guydurant.png" alt="Guy Durant" title="Guy Durant" width="48"/>](https://github.com/guydurant)
+    [<img src="https://github.com/arunraja-hub.png" alt="Arun Raja" title="Arun Raja" width="48"/>](https://github.com/arunraja-hub)
+    [<img src="https://github.com/SimiaoZhao.png" alt="Simiao Zhao" title="Simiao Zhao" width="48"/>](https://github.com/simiaozhao)
+    [<img src="https://github.com/DylanAdlard.png" alt="Dylan Adlard" title="Dylan Adlard" width="48"/>](https://github.com/dylanadlard)
+    [<img src="https://github.com/anissa218.png" alt="Anissa Alloula" title="Anissa Alloula" width="48"/>](https://github.com/anissa218)
+    [<img src="https://github.com/adpunt.png" alt="Adelaide Punt" title="Adelaide Punt" width="48"/>](https://github.com/adpunt)
+* [Back-end](https://github.com/SABS-Group-2-2021-22/drug-discovery-game-backend)
+  - ![](https://img.shields.io/badge/Language-Python-blue)
+  - [<img src="https://github.com/npqst.png" alt="Nele Quast" title="Nele Quast" width="48"/>](https://github.com/npqst)
+    [<img src="https://github.com/k-shep.png" alt="Katherine Sheperd" title="Katherine Sheperd" width="48"/>](https://github.com/k-shep)
+    [<img src="https://github.com/guydurant.png" alt="Guy Durant" title="Guy Durant" width="48"/>](https://github.com/guydurant)
+    [<img src="https://github.com/arunraja-hub.png" alt="Arun Raja" title="Arun Raja" width="48"/>](https://github.com/arunraja-hub)
+    [<img src="https://github.com/SimiaoZhao.png" alt="Simiao Zhao" title="Simiao Zhao" width="48"/>](https://github.com/simiaozhao)
+    [<img src="https://github.com/DylanAdlard.png" alt="Dylan Adlard" title="Dylan Adlard" width="48"/>](https://github.com/dylanadlard)
+    [<img src="https://github.com/anissa218.png" alt="Anissa Alloula" title="Anissa Alloula" width="48"/>](https://github.com/anissa218)
+    [<img src="https://github.com/adpunt.png" alt="Adelaide Punt" title="Adelaide Punt" width="48"/>](https://github.com/adpunt)
+* [Website](https://drug-design-game.onrender.com/)
+
 ## Libraries
 
 * [PINTS](https://github.com/pints-team/pints) — a framework for optimisation and Bayesian inference on ODE models of noisy time-series, such as arise in electrochemistry and cardiac electrophysiology. 
@@ -144,28 +167,6 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 
 ## Applications
 
-Drug Discovery Game - An interactive web-application designed for medicinal chemists to learn about the drug discovery and design process. The aim of the game is to design a compound which inhibits the protein MMP-12 by running various tests and assays. 
-* [App](https://github.com/SABS-Group-2-2021-22/drug-discovery-game-backend)
-  - ![](https://img.shields.io/badge/Language-Javascript-blue) ![](https://img.shields.io/badge/Topic-Drug%20Design-blue)
-  - [<img src="https://github.com/npqst.png" alt="Nele Quast" title="Nele Quast" width="48"/>](https://github.com/npqst)
-    [<img src="https://github.com/k-shep.png" alt="Katherine Sheperd" title="Katherine Sheperd" width="48"/>](https://github.com/k-shep)
-    [<img src="https://github.com/guydurant.png" alt="Guy Durant" title="Guy Durant" width="48"/>](https://github.com/guydurant)
-    [<img src="https://github.com/arunraja-hub.png" alt="Arun Raja" title="Arun Raja" width="48"/>](https://github.com/arunraja-hub)
-    [<img src="https://github.com/SimiaoZhao.png" alt="Simiao Zhao" title="Simiao Zhao" width="48"/>](https://github.com/simiaozhao)
-    [<img src="https://github.com/DylanAdlard.png" alt="Dylan Adlard" title="Dylan Adlard" width="48"/>](https://github.com/dylanadlard)
-    [<img src="https://github.com/anissa218.png" alt="Anissa Alloula" title="Anissa Alloula" width="48"/>](https://github.com/anissa218)
-    [<img src="https://github.com/adpunt.png" alt="Adelaide Punt" title="Adelaide Punt" width="48"/>](https://github.com/adpunt)
-* [Back-end](https://github.com/SABS-Group-2-2021-22/drug-discovery-game-backend)
-  - ![](https://img.shields.io/badge/Language-Python-blue)
-  - [<img src="https://github.com/npqst.png" alt="Nele Quast" title="Nele Quast" width="48"/>](https://github.com/npqst)
-    [<img src="https://github.com/k-shep.png" alt="Katherine Sheperd" title="Katherine Sheperd" width="48"/>](https://github.com/k-shep)
-    [<img src="https://github.com/guydurant.png" alt="Guy Durant" title="Guy Durant" width="48"/>](https://github.com/guydurant)
-    [<img src="https://github.com/arunraja-hub.png" alt="Arun Raja" title="Arun Raja" width="48"/>](https://github.com/arunraja-hub)
-    [<img src="https://github.com/SimiaoZhao.png" alt="Simiao Zhao" title="Simiao Zhao" width="48"/>](https://github.com/simiaozhao)
-    [<img src="https://github.com/DylanAdlard.png" alt="Dylan Adlard" title="Dylan Adlard" width="48"/>](https://github.com/dylanadlard)
-    [<img src="https://github.com/anissa218.png" alt="Anissa Alloula" title="Anissa Alloula" width="48"/>](https://github.com/anissa218)
-    [<img src="https://github.com/adpunt.png" alt="Adelaide Punt" title="Adelaide Punt" width="48"/>](https://github.com/adpunt)
-* [Website](https://drug-design-game.onrender.com/)
 ## Demos / Tutorials
 
 ## Publications
