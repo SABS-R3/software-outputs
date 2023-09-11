@@ -42,6 +42,22 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
     [<img src="https://github.com/adpunt.png" alt="Adelaide Punt" title="Adelaide Punt" width="48"/>](https://github.com/adpunt)
 * [Website](https://drug-design-game.onrender.com/)
 
+**[ECIQC](https://github.com/Extensible-Clinical-Imaging-QC-Tool/ECIQC)** - An extensible clinical imaging quality control tool to automatically vaildate the DICOM images used in medical research.
+  - ![](https://img.shields.io/badge/Language-C++-blue)
+  - [<img src="https://github.com/PavanChaggar.png" alt="Pavan Chaggar" title="Pavan Chaggar" width="48"/>](https://github.com/PavanChaggar)
+    [<img src="https://github.com/EngEmmanuel.png" alt="Emmanuel Oladokun" title="Emmanuel Oladokun" width="48"/>](https://github.com/EngEmmanuel)
+    [<img src="https://github.com/jkrol8.png" alt="Julia Krol" title="Julia Krol" width="48"/>](https://github.com/jkrol8)
+    [<img src="https://github.com/EmmanuelleB985.png" alt="Emmanuelle Bourigault" title="Emmanuelle Bourigault" width="48"/>](https://github.com/EmmanuelleB985)
+    [<img src="https://github.com/Alex-Tanaka.png" alt="Alex Tanaka" title="Alex Tanaka" width="48"/>](https://github.com/Alex-Tanaka)
+    [<img src="https://github.com/ebarbeary.png" alt="Elliot Barbeary" title="Elliot Barbeary" width="48"/>](https://github.com/ebarbeary)
+    [<img src="https://github.com/hazelweeling.png" alt="Hazel Wee" title="Hazel Wee" width="48"/>](https://github.com/hazelweeling)
+    [<img src="https://github.com/OliverT1.png" alt="Ollie Turnbull" title="Ollie Turnbull" width="48"/>](https://github.com/OliverT1)
+    [<img src="https://github.com/ian-mcfarlane.png" alt="Ian McFarlane" title="Ian McFarlane" width="48"/>](https://github.com/ian-mcfarlane)
+    [<img src="https://github.com/alexisiddiqui.png" alt="Alexi Hussain" title="Alexi Hussain" width="48"/>](https://github.com/alexisiddiqui)
+    [<img src="https://github.com/pistacja96.png" alt="Ola Kalisz" title="Ola Kalisz" width="48"/>](https://github.com/pistacja96)
+    [<img src="https://github.com/weiym97.png" alt="Yiming Wei" title="Yiming Wei" width="48"/>](https://github.com/weiym97)
+    [<img src="https://github.com/martinjrobins.png" alt="Martin Robinson" title="Martin Robinson" width="48"/>](https://github.com/martinjrobins)
+  
 ## Libraries
 
 * [PINTS](https://github.com/pints-team/pints) — a framework for optimisation and Bayesian inference on ODE models of noisy time-series, such as arise in electrochemistry and cardiac electrophysiology. 
