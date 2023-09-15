@@ -57,6 +57,17 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
     [<img src="https://github.com/pistacja96.png" alt="Ola Kalisz" title="Ola Kalisz" width="48"/>](https://github.com/pistacja96)
     [<img src="https://github.com/weiym97.png" alt="Yiming Wei" title="Yiming Wei" width="48"/>](https://github.com/weiym97)
     [<img src="https://github.com/martinjrobins.png" alt="Martin Robinson" title="Martin Robinson" width="48"/>](https://github.com/martinjrobins)
+
+**[AutoAbDab](https://github.com/SABS-R3-AUTOMATED-DATABASE/auto-db-pipeline)** - An automated pipeline to build a database of antibodies specific to a chosen pathogen.
+   - ![](https://img.shields.io/badge/Language-Python-blue)
+   - [<img src="https://github.com/gemmagordon.png" alt="Gemma Gordon" title="Gemma Gordon" width="48"/>](https://github.com/gemmagordon)
+     [<img src="https://github.com/fspoendlin.png" alt="Fabian Spoendlin" title="Fabian Spoendlin" width="48"/>](https://github.com/fspoendlin)
+     [<img src="https://github.com/brennanaba.png" alt="Brennan Abanades Kenyon" title="Brennan Abanades Kenyon" width="48"/>](https://github.com/brennanaba)
+     [<img src="https://github.com/TobiasHeOl.png" alt="Tobias Olsen" title="Tobias Olsen" width="48"/>](https://github.com/tobiasheol)
+     [<img src="https://github.com/jessebmurray.png" alt="Jesse Murray" title="Jesse Murray" width="48"/>](https://github.com/jessebmurray)
+     [<img src="https://github.com/ejin700.png" alt="Emily Jin" title="Emily Jin" width="48"/>](https://github.com/ejin700)
+     [<img src="https://github.com/HQian96.png" alt="Hongyu Qian" title="Hongyu Qian" width="48"/>](https://github.com/hqian96)
+
   
 ## Libraries
 
