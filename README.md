@@ -68,7 +68,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
      [<img src="https://github.com/ejin700.png" alt="Emily Jin" title="Emily Jin" width="48"/>](https://github.com/ejin700)
      [<img src="https://github.com/HQian96.png" alt="Hongyu Qian" title="Hongyu Qian" width="48"/>](https://github.com/hqian96)
 
-* [epiabm](https://github.com/SABS-R3-Epidemiology/epiabm) — Epidemiological agent-based modelling packages in both Python and C++.
+**[epiabm](https://github.com/SABS-R3-Epidemiology/epiabm)** — Epidemiological agent-based modelling packages in both Python and C++.
   - ![](https://img.shields.io/badge/Language-Python-blue) ![](https://img.shields.io/badge/Language-C++-f34b7d) ![](https://img.shields.io/badge/Topic-Epidemiological%20Modelling-blue) 
   - [![](https://img.shields.io/badge/Paper-arXiv/epiabm-blueviolet)](https://doi.org/10.48550/arXiv.2212.04937)
   - [<img src="https://github.com/KCGallagher.png" alt="Kit Gallagher" title="Kit Gallagher" width="48"/>](https://github.com/KCGallagher)
@@ -89,10 +89,10 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
   [![codecov](https://codecov.io/gh/SABS-R3-Epidemiology/epiabm/branch/main/graph/badge.svg?token=VN4CJ0HT06)](https://codecov.io/gh/SABS-R3-Epidemiology/epiabm)
   [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7327444.svg)](https://doi.org/10.5281/zenodo.7327444)
 
-* [EpiGeoPop](https://github.com/SABS-R3-Epidemiology/epiabm) — A tool for developing spatially accurate country-level epidemiological models
+**[EpiGeoPop](https://github.com/SABS-R3-Epidemiology/EpiGeoPop)** — A tool for developing spatially accurate country-level epidemiological models
   - ![](https://img.shields.io/badge/Language-Python-blue) ![](https://img.shields.io/badge/Language-C++-f34b7d) ![](https://img.shields.io/badge/Topic-Epidemiological%20Modelling-blue) 
-  - [![](https://img.shields.io/badge/Paper-arXiv/epiabm-blueviolet)](https://doi.org/10.48550/arXiv.2310.13468)
-    [<img src="https://github.com/Ellmen.png" alt="Isaac Ellmen" title="Isaac Ellmen" width="48"/>](https://github.com/Ellmen)
+  - [![](https://img.shields.io/badge/Paper-arXiv/EpiGeoPop-blueviolet)](https://doi.org/10.48550/arXiv.2310.13468)
+  - [<img src="https://github.com/Ellmen.png" alt="Isaac Ellmen" title="Isaac Ellmen" width="48"/>](https://github.com/Ellmen)
 
 
 ## Libraries
