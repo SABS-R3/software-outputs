@@ -68,7 +68,33 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
      [<img src="https://github.com/ejin700.png" alt="Emily Jin" title="Emily Jin" width="48"/>](https://github.com/ejin700)
      [<img src="https://github.com/HQian96.png" alt="Hongyu Qian" title="Hongyu Qian" width="48"/>](https://github.com/hqian96)
 
-  
+* [epiabm](https://github.com/SABS-R3-Epidemiology/epiabm) — Epidemiological agent-based modelling packages in both Python and C++.
+  - ![](https://img.shields.io/badge/Language-Python-blue) ![](https://img.shields.io/badge/Language-C++-f34b7d) ![](https://img.shields.io/badge/Topic-Epidemiological%20Modelling-blue) 
+  - [![](https://img.shields.io/badge/Paper-arXiv/epiabm-blueviolet)](https://doi.org/10.48550/arXiv.2212.04937)
+  - [<img src="https://github.com/KCGallagher.png" alt="Kit Gallagher" title="Kit Gallagher" width="48"/>](https://github.com/KCGallagher)
+    [<img src="https://github.com/rccreswell.png" alt="Richard Creswell" title="Richard Creswell" width="48"/>](https://github.com/rccreswell)
+    [<img src="https://github.com/I-Bouros.png" alt="Ioana Bouros" title="Ioana Bouros" width="48"/>](https://github.com/I-Bouros)
+    [<img src="https://github.com/NicholasFan235.png" alt="Nicholas Fan" title="Nicholas Fan" width="48"/>](https://github.com/NicholasFan235)
+    [<img src="https://github.com/Elizabeth-Hayman.png" alt="Elizabeth Hayman" title="Elizabeth Hayman" width="48"/>](https://github.com/Elizabeth-Hayman)
+    [<img src="https://github.com/lukedtc.png" alt="Luke Heirene" title="Luke Heirene" width="48"/>](https://github.com/lukedtc)
+    [<img src="https://github.com/patricia-lamy.png" alt="Patricia Lamirande" title="Patricia Lamirande" width="48"/>](https://github.com/patricia-lamy)
+    [<img src="https://github.com/laraherriott.png" alt="Lara Herriott" title="Lara Herriott" width="48"/>](https://github.com/laraherriott)
+    [<img src="https://github.com/Ellmen.png" alt="Isaac Ellmen" title="Isaac Ellmen" width="48"/>](https://github.com/Ellmen)
+    [<img src="https://github.com/njs59.png" alt="Nathan Schofield" title="Nathan Schofield" width="48"/>](https://github.com/njs59)
+    [<img src="https://github.com/HenrietteCapel.png" alt="Henriette Capel" title="Henriette Capel" width="48"/>](https://github.com/HenrietteCapel)
+    [<img src="https://github.com/jiayuanz3.png" alt="Jiayuan Zhu" title="Jiayuan Zhu" width="48"/>](https://github.com/jiayuanz3)
+  - [![Unit tests (python versions)](https://github.com/SABS-R3-Epidemiology/epiabm/actions/workflows/unit-tests.yml/badge.svg)](https://github.com/SABS-R3-Epidemiology/epiabm/actions/workflows/unit-tests.yml)
+  [![Unit tests (cpp versions)](https://github.com/SABS-R3-Epidemiology/epiabm/actions/workflows/cpp-unit-tests-ubuntu.yml/badge.svg)](https://github.com/SABS-R3-Epidemiology/epiabm/actions/workflows/cpp-unit-tests-ubuntu.yml)
+  [![Documentation Status](https://readthedocs.org/projects/epiabm/badge/?version=latest)](https://epiabm.readthedocs.io/en/latest/?badge=latest)
+  [![codecov](https://codecov.io/gh/SABS-R3-Epidemiology/epiabm/branch/main/graph/badge.svg?token=VN4CJ0HT06)](https://codecov.io/gh/SABS-R3-Epidemiology/epiabm)
+  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7327444.svg)](https://doi.org/10.5281/zenodo.7327444)
+
+* [EpiGeoPop](https://github.com/SABS-R3-Epidemiology/epiabm) — A tool for developing spatially accurate country-level epidemiological models
+  - ![](https://img.shields.io/badge/Language-Python-blue) ![](https://img.shields.io/badge/Language-C++-f34b7d) ![](https://img.shields.io/badge/Topic-Epidemiological%20Modelling-blue) 
+  - [![](https://img.shields.io/badge/Paper-arXiv/epiabm-blueviolet)](https://doi.org/10.48550/arXiv.2310.13468)
+    [<img src="https://github.com/Ellmen.png" alt="Isaac Ellmen" title="Isaac Ellmen" width="48"/>](https://github.com/Ellmen)
+
+
 ## Libraries
 
 * [PINTS](https://github.com/pints-team/pints) — a framework for optimisation and Bayesian inference on ODE models of noisy time-series, such as arise in electrochemistry and cardiac electrophysiology. 
@@ -135,27 +161,6 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
   [![codecov](https://codecov.io/gh/SABS-R3-Epidemiology/seirmo/branch/main/graph/badge.svg?token=D1P3CMQTDP)](https://codecov.io/gh/SABS-R3-Epidemiology/seirmo)
   [![Documentation Status](https://readthedocs.org/projects/seirmo/badge/?version=latest)](https://seirmo.readthedocs.io/en/latest/?badge=latest)
 
-* [epiabm](https://github.com/SABS-R3-Epidemiology/epiabm) — Epidemiological agent-based modelling packages in both Python and C++.
-  - ![](https://img.shields.io/badge/Language-Python-blue) ![](https://img.shields.io/badge/Language-C++-f34b7d) ![](https://img.shields.io/badge/Topic-Epidemiological%20Modelling-blue) 
-  - [![](https://img.shields.io/badge/Paper-arXiv/epiabm-blueviolet)](https://doi.org/10.48550/arXiv.2212.04937)
-  - [<img src="https://github.com/KCGallagher.png" alt="Kit Gallagher" title="Kit Gallagher" width="48"/>](https://github.com/KCGallagher)
-    [<img src="https://github.com/rccreswell.png" alt="Richard Creswell" title="Richard Creswell" width="48"/>](https://github.com/rccreswell)
-    [<img src="https://github.com/I-Bouros.png" alt="Ioana Bouros" title="Ioana Bouros" width="48"/>](https://github.com/I-Bouros)
-    [<img src="https://github.com/NicholasFan235.png" alt="Nicholas Fan" title="Nicholas Fan" width="48"/>](https://github.com/NicholasFan235)
-    [<img src="https://github.com/Elizabeth-Hayman.png" alt="Elizabeth Hayman" title="Elizabeth Hayman" width="48"/>](https://github.com/Elizabeth-Hayman)
-    [<img src="https://github.com/lukedtc.png" alt="Luke Heirene" title="Luke Heirene" width="48"/>](https://github.com/lukedtc)
-    [<img src="https://github.com/patricia-lamy.png" alt="Patricia Lamirande" title="Patricia Lamirande" width="48"/>](https://github.com/patricia-lamy)
-    [<img src="https://github.com/laraherriott.png" alt="Lara Herriott" title="Lara Herriott" width="48"/>](https://github.com/laraherriott)
-    [<img src="https://github.com/Ellmen.png" alt="Isaac Ellmen" title="Isaac Ellmen" width="48"/>](https://github.com/Ellmen)
-    [<img src="https://github.com/njs59.png" alt="Nathan Schofield" title="Nathan Schofield" width="48"/>](https://github.com/njs59)
-    [<img src="https://github.com/HenrietteCapel.png" alt="Henriette Capel" title="Henriette Capel" width="48"/>](https://github.com/HenrietteCapel)
-    [<img src="https://github.com/jiayuanz3.png" alt="Jiayuan Zhu" title="Jiayuan Zhu" width="48"/>](https://github.com/jiayuanz3)
-  - [![Unit tests (python versions)](https://github.com/SABS-R3-Epidemiology/epiabm/actions/workflows/unit-tests.yml/badge.svg)](https://github.com/SABS-R3-Epidemiology/epiabm/actions/workflows/unit-tests.yml)
-  [![Unit tests (cpp versions)](https://github.com/SABS-R3-Epidemiology/epiabm/actions/workflows/cpp-unit-tests-ubuntu.yml/badge.svg)](https://github.com/SABS-R3-Epidemiology/epiabm/actions/workflows/cpp-unit-tests-ubuntu.yml)
-  [![Documentation Status](https://readthedocs.org/projects/epiabm/badge/?version=latest)](https://epiabm.readthedocs.io/en/latest/?badge=latest)
-  [![codecov](https://codecov.io/gh/SABS-R3-Epidemiology/epiabm/branch/main/graph/badge.svg?token=VN4CJ0HT06)](https://codecov.io/gh/SABS-R3-Epidemiology/epiabm)
-  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7327444.svg)](https://doi.org/10.5281/zenodo.7327444)
-  
 * [epimodels](https://github.com/I-Bouros/multi-epi-model-cross-analysis) — A collection of multiple epidemiological models used in the modelling of cases observed during the COVID-19 pandemic.
   - ![](https://img.shields.io/badge/Language-Python-blue) ![](https://img.shields.io/badge/Topic-Epidemiological%20Modelling-blue) ![](https://img.shields.io/badge/Topic-Bayesian%20Inference-blue)
   - [<img src="https://github.com/I-Bouros.png" alt="Ioana Bouros" title="Ioana Bouros" width="48"/>](https://github.com/I-Bouros)
